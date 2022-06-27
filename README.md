@@ -1,6 +1,6 @@
 # carrito_V2
 
-nombre:Daniel Felipe Sanchez guevara
+Nombre:Daniel Felipe Sanchez guevara
 
 ultima modificacion:27/06/2022
 
