@@ -4,6 +4,8 @@ Nombre:Daniel Felipe Sanchez guevara
 
 ultima modificacion:27/06/2022
 
+ficha:2470980
+
 el carrito Versionado 2 esta compuesto de dos partes una parte es ingresar datos a la tienda para que el cliente vea los productos que tiene la tienda la otra parte es para que el cliente compre lo que tiene la empresa le pide nombre le muestra la lista de los productos que tienen, el cliente le digite el numero del producto y la cantidad de unidates que tienen disponibles y por ultimo le muestra el total a pagar.
 
 # introducir un nuevo producto
